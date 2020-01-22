@@ -1,0 +1,12 @@
+C:\Users\Eduardo\source\repos\Dashboard\Dashboard\bin\Debug\Dashboard.exe.config
+C:\Users\Eduardo\source\repos\Dashboard\Dashboard\bin\Debug\Dashboard.exe
+C:\Users\Eduardo\source\repos\Dashboard\Dashboard\bin\Debug\Dashboard.pdb
+C:\Users\Eduardo\source\repos\Dashboard\Dashboard\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Eduardo\source\repos\Dashboard\Dashboard\obj\Debug\Dashboard.csprojAssemblyReference.cache
+C:\Users\Eduardo\source\repos\Dashboard\Dashboard\obj\Debug\Dashboard.Dashboard.resources
+C:\Users\Eduardo\source\repos\Dashboard\Dashboard\obj\Debug\Dashboard.Properties.Resources.resources
+C:\Users\Eduardo\source\repos\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.GenerateResource.cache
+C:\Users\Eduardo\source\repos\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.CoreCompileInputs.cache
+C:\Users\Eduardo\source\repos\Dashboard\Dashboard\obj\Debug\Dashboard.csproj.CopyComplete
+C:\Users\Eduardo\source\repos\Dashboard\Dashboard\obj\Debug\Dashboard.exe
+C:\Users\Eduardo\source\repos\Dashboard\Dashboard\obj\Debug\Dashboard.pdb
