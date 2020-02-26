@@ -1,4 +1,4 @@
-# Management-Dashboard
+# System Scanner
 # A simple software to show RAM and CPU usage and manage processes!
 LICENSE = GNU v3
 Thanks for supporting.
